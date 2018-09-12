@@ -12,6 +12,8 @@
 
 			<p>January of 2015 I entered Hudson Valley Community College. I had started their digital media associates program. The program is only about five years old so it is a new subject. This major was not available when I initially graduated high school in 2010. I was able to build my resume with skill and was able to build a portfolio. This made me realize my love for web art, and digital art. I graduated with honors and was on the President's list the whole time I was a student there. Learning that art was the best way to help Deaf community I found my passion within the digital world to convey the messages that I thinks need to be spoken about. I focused on social issues that we all face hearing or deaf. Then I emulated a few artists but using Deaf world perspectives. Then towards the end of my time at Hudson Valley I focused more so on the form and aesethic of sign language. Also at the end I knew I wanted to pursue more of my education.</p>
 
+			<p>This is Margaret testing to see if I can edit other people's files on the repository... feel free to delete this</p>
+
 			<?php include "inc/footer.inc";?>
 
 
