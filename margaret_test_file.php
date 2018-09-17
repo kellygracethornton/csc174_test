@@ -12,6 +12,8 @@
 
 		<p>Paragraph 2: And now I'm trying to add a change to see if it works</p>
 
+		<p>Nice job Margaret! We have success :) By the way, this is Efua checking if these changes show up...</p>
+
 	</body>
 
 </html>
