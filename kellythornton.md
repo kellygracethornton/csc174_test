@@ -24,8 +24,8 @@ Purple was the color worn by Roman magistrates; it became the imperial color wor
 * Hematite
 * Manganese
 * Han Purple
-*Cobalt Violet
-*Quinacridone
+* Cobalt Violet
+* Quinacridone
 
 A[link]
 (https://en.wikipedia.org/wiki/Purple).
@@ -39,11 +39,11 @@ _Green_ is the color between blue and yellow on the visible spectrum. It is evok
 During post-classical and early modern Europe, green was the color commonly associated with wealth, merchants, bankers and the gentry, while red was reserved for the nobility. For this reason, the costume of the Mona Lisa by Leonardo da Vinci and the benches in the British House of Commons are green while those in the House of Lords are red. It also has a long historical tradition as the color of Ireland and of Gaelic culture. It is the historic color of Islam, representing the lush vegetation of Paradise. It was the color of the banner of Muhammad, and is found in the flags of nearly all Islamic countries.
 
 **Pigments**
-*Emerald
-*Viridian
-*Green Earth
-*Rinman's Green
-*Malachite
+* Emerald
+* Viridian
+* Green Earth
+* Rinman's Green
+* Malachite
 
 A[link]
 (https://en.wikipedia.org/wiki/Green).
@@ -57,11 +57,11 @@ _Orange_ is the colour between yellow and red on the spectrum of visible light. 
 In ancient Egypt, artists used an orange mineral pigment called realgar for tomb paintings, as well as other uses. It was also used later by Medieval artists for the colouring of manuscripts. Pigments were also made in ancient times from a mineral known as orpiment. Orpiment was an important item of trade in the Roman Empire and was used as a medicine in China although it contains arsenic and is highly toxic. It was also used as a fly poison and to poison arrows. Because of its yellow-orange colour, it was also a favourite with alchemists searching for a way to make gold, in both China and the West.
 
 **Pigments**
-*Realgar
-*Saffron
-*Tumeric
-*Cadmium Orange
-*Quinacridone
+* Realgar
+* Saffron
+* Tumeric
+* Cadmium Orange
+* Quinacridone
 
 A[link]
 (https://en.wikipedia.org/wiki/Orange_(colour)). 
