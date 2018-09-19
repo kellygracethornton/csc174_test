@@ -3,11 +3,11 @@ Efua Agyare-Kumi
 Lab Assignment 04
 19.09.2018
 
-This is a document about three African leaders who had great influence over the directions of their countries both good and bad. Kwame Nkrumah delivered Ghana from colonialism, Ellen Johnson Sirleaf repaired Liberia after the civil war and Robert Mugabe drove white colonialists out to Zimbabwe. However all three also had various levels of dictatorship in their regimes. Nkrumah made Ghan a one party state and was overthrown, which launched Ghana into a series of unstable regimes for the next 20-something years. Mugabe abused his power as President until he was forced about by Parliament in 2017. Sireleaf completed her term successfully, but still faced her fair share of controversies. 
+_This is a document about three African leaders who had great influence over the directions of their countries both good and bad. Kwame Nkrumah delivered Ghana from colonialism, Ellen Johnson Sirleaf repaired Liberia after the civil war and Robert Mugabe drove white colonialists out to Zimbabwe. However all three also had various levels of dictatorship in their regimes. Nkrumah made Ghan a one party state and was overthrown, which launched Ghana into a series of unstable regimes for the next 20-something years. Mugabe abused his power as President until he was forced about by Parliament in 2017. Sireleaf completed her term successfully, but still faced her fair share of controversies._ 
 
 # Meet the African Leaders of the previous Century
 
-##Kwame Nkrumah -- 21 September 1909 - 27 April 1972
+## Kwame Nkrumah -- 21 September 1909 - 27 April 1972
 Kwame Nkrumah PC was a Ghanaian politician and revolutionary. 
 He was the first prime minister and president of Ghana, having led it to independence from Britain in 1957. 
 An influential advocate of Pan-Africanism, Nkrumah was a founding member of the Organisation of African Unity and winner of the Lenin Peace Prize in 1962.
@@ -18,7 +18,7 @@ In 1960, Ghanaians approved a new constitution and elected Nkrumah president.
 
 ********
 
-##Robert Gabriel Mugabe -- 21 February 1924
+## Robert Gabriel Mugabe -- 21 February 1924
 Robert Gabriel Mugabe is a Zimbabwean politician and revolutionary who served as Prime Minister of Zimbabwe from 1980 to 1987 and then as President from 1987 to 2017. He chaired the Zimbabwe African National Union (ZANU) group from 1975 to 1980 and led its successor political party, the ZANU – Patriotic Front (ZANU–PF), from 1980 to 2017. Ideologically an African nationalist, during the 1970s and 1980s he identified as a Marxist–Leninist, although after the 1990s self-identified only as a socialist. His policies have been described as Mugabeism.
 
 Mugabe was born to a poor Shona family in Kutama, Southern Rhodesia. 
@@ -35,7 +35,7 @@ Opposition to Mugabe grew, although he was re-elected in 2002, 2008 and 2013 thr
 Following a 2017 coup, Mugabe resigned the presidency.
 
 ********* 
-##Ellen Johnson Sirleaf -- 29 October 1938
+## Ellen Johnson Sirleaf -- 29 October 1938
 Ellen Johnson Sirleaf is a Liberian politician who served as the 24th President of Liberia from 2006 to 2018. 
 Sirleaf was the first elected female head of state in Africa.
 
@@ -50,7 +50,7 @@ She won the 2005 presidential election and took office on 16th January 2006.
 She was re-elected in 2011. 
 In June 2016, she was elected as the Chair of the Economic Community of West African States, making her the first woman to hold the position since it was created.[1]
 
-###Sources: 
+### Sources: 
 [Kwame Nkrumah] (https://en.wikipedia.org/wiki/Kwame_Nkrumah)
 [Robert Gabriel Mugabe] (https://en.wikipedia.org/wiki/Robert_Mugabe)
 [Ellen Johnson Sirleaf] (https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf)
