@@ -51,9 +51,9 @@ She was re-elected in 2011.
 In June 2016, she was elected as the Chair of the Economic Community of West African States, making her the first woman to hold the position since it was created.[1]
 
 ### Sources: 
-[Kwame Nkrumah] (https://en.wikipedia.org/wiki/Kwame_Nkrumah)
-[Robert Gabriel Mugabe] (https://en.wikipedia.org/wiki/Robert_Mugabe)
-[Ellen Johnson Sirleaf] (https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf)
+* [Kwame Nkrumah] (https://en.wikipedia.org/wiki/Kwame_Nkrumah)
+* [Robert Gabriel Mugabe] (https://en.wikipedia.org/wiki/Robert_Mugabe)
+* [Ellen Johnson Sirleaf] (https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf)
 
 
 
