@@ -4,11 +4,12 @@
 ### Lab 04 | Markdown 
 ### Septemeber 19th, 2018
 
+
+Secondary colors are colors that are created by mixing two primary colors. The primary colors are red, blue, and yellow. Mixing two of those colors will get a secondary color. Mind you we are talking about colors that are visible to the human eye. Secondary colors mixed make tertiary colors. Before the discovery of CMY, at least as far back as Goethe, the best primary colors were thought to be red, yellow, and blue. Mixing these pigments in equal amounts produces _orange_, _green_, and _purple_.
+
 ## Purple
 ## Green
 ## Orange
-
-All the colors mentioned above are colors. They are colors that are created by mixing two primary colors. The primary colors are red, blue, and yellow. Mixing two of those colors will get a secondary color. Mind you we are talking about colors that are visible to the human eye. Secondary colors mixed make tertiary colors. Before the discovery of CMY, at least as far back as Goethe, the best primary colors were thought to be red, yellow, and blue. Mixing these pigments in equal amounts produces _orange_, _green_, and _purple_.
 
 ## Purple
 
