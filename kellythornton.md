@@ -21,9 +21,9 @@ _Purple_ is a color intermediate between blue and red. It is similar to violet, 
 Purple was the color worn by Roman magistrates; it became the imperial color worn by the rulers of the Byzantine Empire and the Holy Roman Empire, and later by Roman Catholic bishops. Similarly in Japan, the color is traditionally associated with the Emperor and aristocracy. The complementary color of purple is yellow.
 
 **Pigments**
-*Hematite
-*Manganese
-*Han Purple
+* Hematite
+* Manganese
+* Han Purple
 *Cobalt Violet
 *Quinacridone
 
