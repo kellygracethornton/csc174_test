@@ -3,6 +3,8 @@ Efua Agyare-Kumi
 Lab Assignment 04
 19.09.2018
 
+This is a document about three African leaders who had great influence over the directions of their countries both good and bad. Kwame Nkrumah delivered Ghana from colonialism, Ellen Johnson Sirleaf repaired Liberia after the civil war and Robert Mugabe drove white colonialists out to Zimbabwe. However all three also had various levels of dictatorship in their regimes. Nkrumah made Ghan a one party state and was overthrown, which launched Ghana into a series of unstable regimes for the next 20-something years. Mugabe abused his power as President until he was forced about by Parliament in 2017. Sireleaf completed her term successfully, but still faced her fair share of controversies. 
+
 # Meet the African Leaders of the previous Century
 
 ##Kwame Nkrumah -- 21 September 1909 - 27 April 1972
