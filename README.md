@@ -3,7 +3,7 @@ Efua Agyare-Kumi
 Lab Assignment 04
 19.09.2018
 
-# Meet the African Leaders of previous Century
+# Meet the African Leaders of the previous Century
 
 ##Kwame Nkrumah -- 21 September 1909 - 27 April 1972
 Kwame Nkrumah PC was a Ghanaian politician and revolutionary. 
